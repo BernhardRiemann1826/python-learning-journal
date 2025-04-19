@@ -1,0 +1,9 @@
+AVL Tree Implementation (40%): Correctly implements the AVL Tree with all methods required. Efficiently handles the dictionary and maintains alphabetical order.
+
+Spell Checking (10%): Correctly identifies all misspelled words and efficiently uses a set to avoid duplicates.
+
+Display Functionality (5%): Correctly displays all misspelled words along with AVL tree inorder with proper balance.
+
+Code Quality and Documentation (15%)
+
+Demo (30%
